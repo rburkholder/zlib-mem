@@ -8,3 +8,5 @@ of my TradeFrame application.
 
 The solution file is at https://github.com/rburkholder/zlib-mem/blob/master/contrib/vstudio/vc14/zlibvc.sln 
 and build a static library: zlibstat
+
+This incorporates the files from https://github.com/rburkholder/ioapi_mem
